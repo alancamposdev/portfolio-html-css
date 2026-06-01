@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@600;700&family=Fira+Code:wght@400&display=swap");
+
+/* Variáveis CSS  */
+
+:root {
+  /* Cores */
+  --color-primary: #2563eb;
+  --color-primary-light: #3b82f6;
+  --color-primary-dark: #1d4ed8;
+
+  /* Feedback*/
+  --color-success: #22c55e;
+  --color-error: #ef4444;
+
+  /* Tipologia */
+  --font-heading: "Poppins", sans-serif;
+
+  /* Espaçamento  */
+  --spacing-xs: 0.4rem; /*  4px */
+  --spacing-sm: 0.8rem; /*  8px */
+  --spacing-md: 1.6rem; /* 16px */
+
+  /* Bordas */
+  --radius: 1rem /* Sombras */ --shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+
+  /* Layout */
+  --container-max: 1200px;
+  --container-sm: 768px;
+}
